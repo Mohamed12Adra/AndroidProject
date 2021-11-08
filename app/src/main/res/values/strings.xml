@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="spinnerId">spinnerId</string>
+    <string name="nameId">nameId</string>
+    <string name="name">Name</string>
+    <string name="button">Start</string>
+    <string name="height">Height</string>
+    <string name="heightId">heightId</string>
+    <string name="buttonId">StartId</string>
+    <string name="weight">Weight</string>
+    <string name="spinner">Gender</string>
+    <string name="weightId">weightId</string>
+    <string name="save">Save</string>
+    <string name="saveId">SaveId</string>
+    <string name="gridId">GridId</string>
+    <string name="itemId">itemId</string>
+    <string name="listId">listId</string>
+    <string name="List">This is a list of links for fitness</string>
+    <string name="PhotosId">photosId</string>
+    <string name="PhotoGridId">photoGridId</string>
+    <string name="fitnessId">fitnessId</string>
+</resources>
